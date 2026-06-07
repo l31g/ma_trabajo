@@ -13,11 +13,17 @@ Ask HR to answer these in writing.
 9. Will my sick leave transfer to JHHS?
 10. What sick leave balance will transfer, and when will it appear in the JHHS system?
 11. What PTO/vacation accrual rate will I have at JHHS?
-12. Will there be any gap in health, dental, vision, life, disability, or other benefits?
-13. What forms, elections, or deadlines do I need to complete for JHHS benefits?
-14. What JHU retirement plans am I currently in, including pension and/or 403(b)?
-15. If I have a JHU pension, will pension service continue, freeze, or change after the transfer?
-16. What retirement plan will I be placed into at JHHS?
-17. Will my JHU service count for JHHS retirement eligibility, vesting, or employer contributions?
-18. Can HR provide the policy, plan document, or summary plan description supporting each answer?
-
+12. I have pre-planned vacation from **September 18 through October 3, 2026** that was approved before the JHHS transition announcement. Will JHHS honor those already-approved dates after transfer?
+13. If I do not have enough JHHS PTO accrued by then, can the time be approved as unpaid leave or handled another way?
+14. Will taking this planned vacation affect my 90-day probationary period, benefits, or employment status?
+15. The RCM packet says administrative-transfer employees are kept whole. Can HR confirm my salary will not decrease?
+16. What does the 90-day probationary period affect?
+17. Will there be any gap in health, dental, vision, life, disability, or other benefits?
+18. If JHHS coverage starts the first day of the month after my hire date, what coverage applies between the transfer date and that date?
+19. What forms, elections, or deadlines do I need to complete for JHHS benefits?
+20. What is the deadline to sign my offer letter?
+21. What JHU retirement plans am I currently in, including pension and/or 403(b)?
+22. If I have a JHU pension, will pension service continue, freeze, or change after the transfer?
+23. What retirement plan will I be placed into at JHHS?
+24. Will my JHU service count for JHHS retirement eligibility, vesting, or employer contributions?
+25. Can HR provide the policy, plan document, or summary plan description supporting each answer?
