@@ -1,0 +1,47 @@
+Source: onedrive_docs/RCM Transition Communications/Open Positions_ Will Be Posted Here 6_2_26/Non RCM Integration - JHHS Openings.xlsx
+
+---
+
+--- sheet: Sheet1 ---
+Job Req ID	Personnel Area	Job Title	Status	Hours Per Week	Shift	Organizational Unit
+668622	Johns Hopkins Health System	Executive Director, Revenue Cycle Admitting & Registration	Full Time	40	Day Shift	10001691-Revenue Cycle Billing & Reporting
+668621	Johns Hopkins Health System	Executive Director, Financial Clearance & Customer Service	Full Time	40	Day Shift	10001691-Revenue Cycle Billing & Reporting
+668620	Johns Hopkins Health System	Executive Director, Patient Financial Services	Full Time	40	Day Shift	10001691-Revenue Cycle Billing & Reporting
+668619	Johns Hopkins Health System	Executive Director, Revenue & Payment Integrity	Full Time	40	Day Shift	10001691-Revenue Cycle Billing & Reporting
+668618	Johns Hopkins Health System	Director, Post Acute Billing	Full Time	40	Day Shift	10001691-Revenue Cycle Billing & Reporting
+668617	Johns Hopkins Health System	Program Director, Revenue Cycle Mgmt Site Operations (JHH & JHBMC)	Full Time	40	Day Shift	10001690-Revenue Cycle Management
+668616	Johns Hopkins Health System	Program Director, Revenue Cycle Mgmt Site Operations (JHHCMC & SH)	Full Time	40	Day Shift	10001690-Revenue Cycle Management
+668615	Johns Hopkins Health System	Program Director, Revenue Cycle Mgmt Site Operations (JHACH & SMH)	Full Time	40	Day Shift	10001690-Revenue Cycle Management
+668596	Johns Hopkins Health System	Admissions & Registration Coord II	Limited	24	Rotating Shift	60012062-JHH L & D Admissions - Day
+668594	Johns Hopkins Health System	Revenue Cycle Coordinator II- Medicare	Full Time	40	Day Shift	60005002-Medicare Billing Supervisor & Staff 2
+668273	Johns Hopkins Health System	Admission & Registration Coord IV	Full Time	40	Evening Shift	60012067-JHH Adult ED Admissions - Eve
+668272	Johns Hopkins Health System	Admissions & Registration Coord II	Part-time	32	Night Shift	60012071-JHH L&D Admissions -Eve
+668271	Johns Hopkins Health System	Admission & Registration Coord IV	Full Time	40	Day Shift	60012051-JHH Peds Admissions - Day
+668270	Johns Hopkins Health System	Revenue Cycle Coordinator II	Full Time	40	Day Shift	10003829-UHC Billing Supervisor & Staff
+668268	Johns Hopkins Health System	Revenue Cycle Coordinator II	Full Time	40	Day Shift	10003829-UHC Billing Supervisor & Staff
+667997	Johns Hopkins Health System	Bilingual Spanish Customer Service Coordinator- Call Center	Full Time	40	Day Shift	10003854-Customer Service Supv and Staff 1
+667996	Johns Hopkins Health System	Customer Service Coordinator	Full Time	40	Day Shift	10003854-Customer Service Supv and Staff 1
+667735	Johns Hopkins Health System	Patient Financial Counselor II- Bayview	Full Time	40	Day Shift	10003851-Financial Counseling
+667734	Johns Hopkins Health System	Patient Financial Counselor II- JHH	Full Time	40	Day Shift	10003851-Financial Counseling
+667733	Johns Hopkins Health System	Patient Financial Counselor II- JHH	Full Time	40	Day Shift	10003851-Financial Counseling
+667732	Johns Hopkins Health System	Patient Financial Counselor II- Bayview	Full Time	40	Day Shift	10003851-Financial Counseling
+667731	Johns Hopkins Health System	Patient Financial Counselor II- Columbia	Full Time	40	Day Shift	10003851-Financial Counseling
+667304	Johns Hopkins Health System	Customer Service Coordinator - Healthcare Billing Call Center	Full Time	40	Day Shift	10003853-Customer Service
+667053	Johns Hopkins Health System	Cash Application Coordinator II	Full Time	40	Day Shift	60015003-Cash Application Supervisor & Staff 3
+666746	Johns Hopkins Health System	Manager, Revenue Cycle	Full Time	40	Day Shift	10003857-Cash Application & Cashier's Office
+666742	Johns Hopkins Health System	Supervisor, Revenue Cycle	Full Time	40	Day Shift	60005001-Credit Supervisor & Staff
+665860	Johns Hopkins Health System	DENIAL PREVENTION ANALYST	Full Time	40	Day Shift	60014705-Denial Prevention
+665859	Johns Hopkins Health System	Admissions & Registration Coord III	Full Time	40	Evening Shift	60012065-JHH Adult ED Admissions - Day
+665857	Johns Hopkins Health System	Admissions & Registration Coord III	Full Time	40	Day Shift	60012065-JHH Adult ED Admissions - Day
+665304	Johns Hopkins Health System	Revenue Cycle Manager	Full Time	40	Day Shift	10003831-BlueCross & Commercial Other Billing
+665302	Johns Hopkins Health System	Admissions & Registration Coord II (Evening Shift)	Part-time	32	Evening Shift	60012062-JHH L & D Admissions - Day
+664492	Johns Hopkins Health System	Admissions & Registration Coord II	Full Time	40	Night Shift	60012067-JHH Adult ED Admissions - Eve
+662692	Johns Hopkins Health System	Admissions & Registration Coord II	Casual / On Call	16	Evening Shift	60012067-JHH Adult ED Admissions - Eve
+662064	Johns Hopkins Health System	Admissions & Registration Coord II (O.R) Early Shift	Full Time	40	Day Shift	60012903-JHH O.R Admissions
+661078	Johns Hopkins Health System	Financial Clearance Manager	Full Time	40	Day Shift	60005602-Financial Clearance Outpatient
+661067	Johns Hopkins Health System	Admissions & Registration Coord II	Full Time	40	Evening Shift	60009026-RCM Site Ops
+660411	Johns Hopkins Health System	BILINGUAL ADM & REGISTR COORD II	Full Time	40	Day Shift	60012065-JHH Adult ED Admissions - Day
+652507	Johns Hopkins Health System	DIR, REVENUE CYCLE MANAGEMENT	Full Time	40	Day Shift	10003839-Accounts Receivable & Customer Service
+662759	Johns Hopkins All Childrens	Manager-Revenue Integrity - PB	Full Time	40	Day Shift	60005918-Professional Billing 2
+664198	Johns Hopkins All Childrens	Revenue Integrity Charge Capture Analyst	Full Time	40	Day Shift	60005919-Professional Billing Adm
+665585	Johns Hopkins All Childrens	Revenue Integrity Charge Capture Analyst	Full Time	40	Day Shift	60005919-Professional Billing Adm

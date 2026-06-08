@@ -77,9 +77,9 @@ The partial OCR matches the RCM resource packet on these points:
 
 ## Q&A 6/5/26 spreadsheet findings
 
-Source: `screenshots/Q&A_6_5_26/`
+Original screenshot source: `screenshots/Q&A_6_5_26/`
 
-The spreadsheet was restricted: the UI says there is no permission to download or print the file. Findings below are transcribed/summarized from downscaled screenshots.
+Earlier screenshot review was done because the UI appeared to restrict download/print access. The spreadsheet was later downloaded through the OneDrive export as `onedrive_docs/RCM Transition Communications/HR FAQs/Q&A_ 6_5_26.xlsx`; the downloaded spreadsheet findings in `transcriptions/transition-emails-and-packet.md` should be treated as the cleaner source.
 
 ### 403(b)
 
@@ -185,7 +185,7 @@ Important caveat: The pension answers appear to discuss multiple scenarios and p
 - Breaks longer than one year may not count.
 - A later row asks why accrued sick leave balances are not transferred to JHHS and points to the JHU-JHHS Administrative Transfer Guidelines PDF for details.
 
-Important caveat: The Q&A sick-leave items are potentially in tension with HR025/HR031, which say sick leave transfers in an administrative transfer. This should be clarified in writing with HR: does the employee's actual sick leave balance transfer to JHHS, and if not, what policy overrides HR025/HR031?
+Important caveat: The later-pulled administrative-transfer FAQ says sick time balances are not paid out and do not transfer, even though HR025/HR031 contain conflicting sick-transfer wording. Treat this as a document conflict to clarify in writing, not a settled answer.
 
 ### Severance
 
@@ -218,3 +218,95 @@ Important caveat: The Q&A sick-leave items are potentially in tension with HR025
 ## Remaining OCR work
 
 - OCR/review the personalized letter image/PDF if needed.
+
+## OneDrive screenshot-only review
+
+Source folder: `onedrive_docs/RCM Transition Communications/`
+
+Review status:
+
+- OneDrive reported failed downloads for several PDFs.
+- Screenshots of those restricted/failed-download documents were reviewed from compressed lower-resolution copies created locally in the session workspace.
+- Source screenshots in the repo were not modified.
+
+### JHHS Benefits Overview 2026-0310
+
+Screenshot sources:
+
+- `onedrive_docs/RCM Transition Communications/JHHS Benefits/Screenshot 2026-06-07 at 18.59.59.png`
+- `onedrive_docs/RCM Transition Communications/JHHS Benefits/Screenshot 2026-06-07 at 19.00.09.png`
+- `onedrive_docs/RCM Transition Communications/JHHS Benefits/Screenshot 2026-06-07 at 19.00.20.png`
+
+Key findings:
+
+- The failed-download file appears to be **JHHS_Benefits Overview_2026-0310.pdf**.
+- The overview is a general JHHS benefits overview for benefits-eligible employees; eligibility depends on regular hours and member organization.
+- Benefit information is directed to **myBenefitsJHHS.com**.
+- Medical options shown include Johns Hopkins EPO, PPO, and DPC plans.
+- Dental options are through Delta Dental; vision is through Superior Vision.
+- The retirement overview says employees may save pre-tax or Roth after-tax contributions and receive matching contributions from JHHS after one year of eligible employment.
+- JHHS PTO language says paid time off starts accruing on the hire date and employees receive seven paid holidays each year.
+- Tuition assistance, JHEAP, family resources, discounts, disability insurance, life/AD&D, FSA, and voluntary benefits are summarized at a high level.
+
+### Milestones for RCM Employees
+
+Screenshot sources:
+
+- `onedrive_docs/RCM Transition Communications/Transition TImeline/Screenshot 2026-06-07 at 19.09.16.png`
+- `onedrive_docs/RCM Transition Communications/Transition TImeline/Screenshot 2026-06-07 at 19.09.29.png`
+- `onedrive_docs/RCM Transition Communications/Transition TImeline/Screenshot 2026-06-07 at 19.09.41.png`
+- `onedrive_docs/RCM Transition Communications/Transition TImeline/Screenshot 2026-06-07 at 19.09.47.png`
+- `onedrive_docs/RCM Transition Communications/Transition TImeline/Screenshot 2026-06-07 at 19.09.54.png`
+- `onedrive_docs/RCM Transition Communications/Transition TImeline/Screenshot 2026-06-07 at 19.10.00.png`
+
+Key findings:
+
+- The failed-download file appears to be **Milestones for RCM Employees.pdf**.
+- The screenshots show a May-October 2026 calendar of RCM transition events.
+- Visible events include employee notifications around June 1, HR information sessions, stakeholder engagement sessions, office hours, application deadlines, training, team-building, and post-implementation sessions.
+- The calendar supports the already-known application deadlines: **June 12** for administrative transfers/management positions and **June 19** for billing and AR follow-up.
+- Later visible events include technical training and team-building around late July, August, September, and early October. These are planning milestones, not individual employment terms.
+
+### PBS Teams / Coding structure screenshots
+
+Screenshot sources:
+
+- `onedrive_docs/RCM Transition Communications/PBS Teams/Screenshot 2026-06-07 at 19.01.34.png`
+- `onedrive_docs/RCM Transition Communications/PBS Teams/Screenshot 2026-06-07 at 19.01.50.png`
+- `onedrive_docs/RCM Transition Communications/PBS Teams/Screenshot 2026-06-07 at 19.02.07.png`
+- `onedrive_docs/RCM Transition Communications/PBS Teams/Screenshot 2026-06-07 at 19.02.15.png`
+- `onedrive_docs/RCM Transition Communications/PBS Teams/Screenshot 2026-06-07 at 19.02.30.png`
+- `onedrive_docs/RCM Transition Communications/PBS Teams/Screenshot 2026-06-07 at 19.02.40.png`
+- `onedrive_docs/RCM Transition Communications/PBS Teams/Screenshot 2026-06-07 at 19.02.48.png`
+- `onedrive_docs/RCM Transition Communications/PBS Teams/Screenshot 2026-06-07 at 19.03.02.png`
+- `onedrive_docs/RCM Transition Communications/PBS Teams/Screenshot 2026-06-07 at 19.03.09.png`
+- `onedrive_docs/RCM Transition Communications/PBS Teams/Screenshot 2026-06-07 at 19.03.16.png`
+- `onedrive_docs/RCM Transition Communications/PBS Teams/Screenshot 2026-06-07 at 19.03.23.png`
+- `onedrive_docs/RCM Transition Communications/PBS Teams/Screenshot 2026-06-07 at 19.03.39.png`
+
+Key findings:
+
+- The failed-download files appear to include **Coding Education Team.pdf**, **PBS Teams June 2026.pdf**, and **Senior RCM Strategist.pdf**.
+- Screenshots include org charts for professional billing teams, PBS leadership, coding, coding quality, accounts receivable, revenue management and analytics, revenue cycle operations, process improvement, and administrative services.
+- The coding org chart shows a future coding structure with a Coding Director, multiple Coding Managers, and specialty groups such as surgery, cardiology, urology, OB/GYN, ophthalmology, dermatology, medicine, PMR, pathology/genetic medicine, oncology, radiation oncology, radiology, orthopedics, anesthesia, pediatrics, and ACH coding.
+- The coding quality chart shows a Coding Quality Program Director, Clinical Denials Manager, Clinical Denial Coders, and Coding Educators.
+- These screenshots are useful role-structure evidence, but they do not answer PTO, sick leave, service-date, or retirement questions.
+
+### Resource Packet for Managers
+
+Screenshot sources: `onedrive_docs/RCM Transition Communications/Support Resources/Screenshot 2026-06-07 at 19.04.27.png` through `Screenshot 2026-06-07 at 19.08.22.png`
+
+Important handling note: the manager packet screenshot says **Confidential - Limited Distribution Only. Do Not Forward or Share.** Keep summaries limited and do not distribute the source screenshots outside this private evidence folder.
+
+Key findings:
+
+- The failed-download file appears to be **Resource Packet for Managers.pdf**.
+- The packet mostly overlaps the all-staff RCM transition FAQ/resource packet, but adds manager talking points and change-management support.
+- The screenshot set includes the same compensation/payroll/benefits message: JHU and JHHS are distinct employers, the administrative-transfer guidelines were expanded, and administrative-transfer employees moving to JHHS roles are kept whole, meaning salary will not decrease.
+- The manager packet embeds JHHS benefits overview pages and JHU benefit-summary pages.
+- The embedded JHU **Benefits Summary | Reduction in Force** pages are dated **02/2025** and appear most relevant if an employee is not placed or is otherwise separated through RIF, not necessarily if the employee completes an administrative transfer.
+- The RIF benefits summary says medical/pharmacy/dental/vision coverage continues to month-end, COBRA is available at 102%, and JHU subsidizes COBRA costs for **6 months** if the employee elects coverage and is not otherwise covered.
+- The RIF benefits summary says 403(b) contributions and University contributions stop with the last pay received.
+- The RIF benefits summary repeats the vacation payout caps: **44 days** for staff hired or reinstated before July 1, 2013; **22 days** for staff hired or reinstated on or after July 1, 2013.
+- The RIF benefits summary says no sick-leave payout unless retiree-qualified, and unused sick leave may be credited if rehired within **12 months** at termination.
+- The RIF benefits summary describes retiree-benefits eligibility as 30 years of continuous full-time service or age 55 with 10 years of continuous full-time service as of the last day worked.

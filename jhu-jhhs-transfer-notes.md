@@ -2,9 +2,9 @@
 
 ## Context
 
-My mom has worked at Johns Hopkins University (JHU) for about 18 years as a medical coder. Hopkins is transferring her department from JHU to Johns Hopkins Health System (JHHS), with the transfer expected around the end of August 2026.
+My mom, Wanda, has worked at Johns Hopkins University (JHU) for about 18 years as a medical coder. Hopkins is transferring her department from JHU to Johns Hopkins Health System (JHHS), with the transfer expected around the end of August 2026.
 
-Her role is a coder/medical coder, so the RCM packet's statement that **coding** roles are mapped through administrative transfer is likely directly relevant. Her individual placement/offer letter still needs to confirm that her specific position is being processed as an administrative transfer.
+Her role is a coder/medical coder. The RCM packet says **coding** roles are mapped through administrative transfer, and the user confirmed on **2026-06-07** that Wanda is under the **administrative transfer**, not competitive recruitment, process. Her individual placement/offer letter should still be saved as written confirmation.
 
 Main concerns:
 
@@ -63,6 +63,8 @@ Files saved in this repo:
 - `policies/HR029.pdf` — Transfers, Promotions, Demotions and Reclassifications
 - `policies/HR031.pdf` — Vacation Leave
 - `policies/document.pdf` — duplicate copy of `HR031.pdf`
+- `policies/JHU-JHHS-Administrative-Transfer-Guidelines.pdf`
+- `policies/JHHS-JHU-Administrative-Transfer-Guidelines-Frequently-Asked-Questions.pdf`
 
 Most important confirmed policy points:
 
@@ -74,16 +76,22 @@ Most important confirmed policy points:
 - **HR023 Position Categories**, effective **01/10/2022**, defines full-time as a regular position planned to last more than six months requiring at least **28 hours/week** or at least **75%** of full-time equivalent salary.
 - **HR029 Transfers, Promotions, Demotions and Reclassifications**, effective **07/01/2017**, covers regular University job movement and says the University may initiate transfers, promotions, or demotions in response to organizational needs. The more specific JHU/JHHS administrative-transfer language is in HR031 and HR025.
 - **HR026 Staff Compensation Program** covers salary ranges, promotion increases, demotions, equity adjustments, on-call pay, shift differential, acting pay, and discretionary bonus rules. It is useful for pay review but does not appear to answer PTO payout directly.
+- **JHU/JHHS Administrative Transfer Guidelines**, effective **01/01/2026**, define administrative transfer as movement from one organization's payroll to another with **no break in service**. The guidelines say the forwarding organization's employment date transfers to the receiving organization.
+- The administrative-transfer guidelines say there should be no lapse in medical, dental, life, short-term disability, or long-term disability coverage, subject to the receiving organization's eligibility schedule and plan documents.
+- The administrative-transfer guidelines say the forwarding organization pays out unused accrued vacation/PTO according to its policies, and specifically say unused vacation from JHU is paid out at **100%** at the time of administrative transfer.
+- The administrative-transfer guidelines say the forwarding-organization employment date is used to determine vacation/PTO accrual rates at the new organization.
+- Sick leave has a real document conflict. HR025/HR031 say sick leave transfers in an administrative transfer; the administrative-transfer guidelines body says accrued sick leave is **not paid out**; the administrative-transfer FAQ says sick time balances are **not paid out** and **do not transfer**. Do not assume either outcome without written HR confirmation of which document controls Wanda's actual sick balance.
+- For retirement, the administrative-transfer guidelines say JHU-to-JHHS transferring employees receive vesting and eligibility service credit from their JHU employment date as permitted under the applicable receiving-plan document. The guidelines emphasize that retirement plan documents govern if there is a discrepancy.
 
 ## PTO / vacation concern
 
-The official JHU Vacation Leave policy now directly confirms the key PTO point. HR031 says an administrative transfer is a covered JHU/JHHS payroll movement with no loss of service, and that vacation leave is paid out while sick leave is transferred to the receiving organization.
+The official JHU Vacation Leave policy and the newer JHU/JHHS Administrative Transfer Guidelines directly confirm the key vacation/PTO point: an administrative transfer is a covered payroll movement with no break/loss of service, and JHU unused accrued vacation/PTO is paid out at the administrative transfer.
 
 - For a JHU-to-JHHS administrative transfer, unused accrued JHU vacation/PTO should be **paid out at the time of administrative transfer**.
 - The PTO/vacation balance generally does **not** carry over to the receiving organization.
 - The employee starts accruing time under the receiving organization's policies.
 - The accrual rate at the receiving organization should be based on recognized University years of service.
-- Sick leave should **transfer** to the receiving organization if this is an administrative transfer to an eligible Johns Hopkins entity.
+- Sick leave is different from vacation/PTO and is still the main policy conflict: HR025/HR031 say sick leave transfers, while the administrative-transfer FAQ says sick time balances are **not paid out** and **do not transfer**. Wanda should get written HR confirmation before assuming the JHU sick balance is preserved or lost.
 
 For my mom, this means the key issue is whether her JHU accrued PTO/vacation should be paid out around the August transfer date, rather than waiting until year-end or resetting without payout.
 
@@ -118,16 +126,17 @@ Key facts visible from the E210 files:
 - FY2026 shows vacation earning at about **1.83/1.84 days/month**, about **22 days/year**.
 - FY2026 ending balances for June 2026 are **28.47 sick days** and **27.91 vacation days**.
 - FY2027 opening balances show **28.47 sick days** and **27.91 vacation days**, matching the FY2026 ending balances. This suggests E210 balances carry forward across the fiscal-year boundary rather than resetting to zero.
+- At **8 hours/day**, the latest FY2027 opening balances equal about **227.76 sick hours** and **223.28 vacation hours**. The vacation balance is below the **44-day / 352-hour** vacation limit.
 - FY2026 also shows balances carrying from December into January, so no calendar-year reset is visible in the E210 reports.
 
-Important caveat: E210 is evidence of recorded balances and accruals, not the policy document governing payout. HR031 and HR025 appear to provide the governing policy answer: vacation is paid out and sick leave is transferred for an administrative transfer. The remaining practical question is whether HR uses the E210 balances for the payout/transfer calculations and whether any caps or timing rules apply.
+Important caveat: E210 is evidence of recorded balances and accruals, not the policy document governing payout. HR031 and the administrative-transfer guidelines provide the governing vacation/PTO answer: vacation is paid out at the administrative transfer. For sick leave, the documents conflict: HR025/HR031 say sick leave transfers, the administrative-transfer guidelines say sick leave is not paid out, and the FAQ says sick time does not transfer. The remaining practical questions are whether HR uses the E210 vacation balance for the payout calculation, what cap/timing/pay-rate rules apply, and what happens to the JHU sick balance.
 
 Follow-up evidence to capture closer to transfer:
 
 - An E210 report or screenshot immediately before the transfer date showing current vacation and sick balances.
 - Any HR written confirmation that vacation payout will use the E210 vacation balance.
 - Any HR written confirmation of whether the payout is calculated in days or hours and at what pay rate.
-- Any HR written confirmation that sick time and Sick & Safe leave transfer to JHHS and how the transferred balance will appear after the move.
+- Any HR written confirmation of which document controls sick leave treatment and whether the JHU sick balance transfers, is forfeited/not transferred, or is otherwise credited.
 
 ## Uploaded transition emails, packet, and benefits records
 
@@ -141,9 +150,10 @@ Files saved in this repo:
 - `benefits/2026.pdf`
 - `screenshots/HR_FAQs/`
 - `screenshots/Q&A_6_5_26/`
+- `onedrive_docs/`
 - `transcriptions/`
 
-Processing note: PDF text extraction was done locally. Durable extraction findings are now kept in this notes file, `key-questions.md`, and the `transcriptions/` folder.
+Processing note: PDF and Office-file text extraction was done locally. Screenshot review used compressed, lower-resolution copies. Durable extraction findings are now kept in this notes file, `key-questions.md`, and the `transcriptions/` folder.
 
 ### Revenue Cycle Transition email
 
@@ -164,6 +174,7 @@ Processing note: PDF text extraction was done locally. Durable extraction findin
 - After submitting the application, the employee should receive an invitation to a placement meeting.
 - The placement meeting is meant to walk through the transition process, answer questions, and confirm details.
 - The stated application deadline is **Friday, June 12, 2026**.
+- After the placement meeting, Wanda should receive an official offer letter that must be signed and returned electronically within **three business days**.
 
 ### Revenue Cycle Transformation resource packet
 
@@ -193,7 +204,11 @@ The ZIP contains `Resource Packet All Other Affected Staff (1).pdf`, a 20-page r
 
 ### Personalized transition letter
 
-The ZIP also contains `Nieves, Wanda.pdf`. Text extraction returned little/no readable text, so it appears to be image-based or otherwise not text-extractable with the local PDF parser. This document still needs manual review or reliable OCR before any conclusions are based on it.
+The ZIP also contains `Nieves, Wanda.pdf`. Text extraction returned little/no readable text, so it appears to be image-based or otherwise not text-extractable with the local PDF parser.
+
+The letter was reviewed from a compressed lower-resolution image copy, and a redacted transcription is saved in `transcriptions/personalized-letter-redacted.md`.
+
+The letter confirms that Wanda's position will be **administratively transferred to JHHS effective August 23, 2026**, contingent on successful completion of JHHS pre-employment requirements. Treat this letter as the paper-trail source for her individual administrative-transfer status.
 
 ### Benefits enrollment confirmations
 
@@ -210,14 +225,17 @@ Key non-sensitive takeaways:
 
 ### Screenshot folders
 
-The `screenshots/HR_FAQs/` and `screenshots/Q&A_6_5_26/` folders contain screenshots of restricted/non-downloadable material. Lower-resolution review copies and partial local OCR were created outside the repo, and durable partial findings were saved in `transcriptions/screenshot-ocr-partial.md`. Do not rely on session scratch files as the record.
+The `screenshots/HR_FAQs/`, `screenshots/Q&A_6_5_26/`, and `onedrive_docs/RCM Transition Communications/` screenshot folders contain screenshots of restricted or failed-download material. Lower-resolution review copies were created outside the repo, and durable findings were saved in `transcriptions/screenshot-ocr-partial.md`. Do not rely on session scratch files as the record.
 
-Most important Q&A screenshot findings:
+The OneDrive export later downloaded `Q&A_ 6_5_26.xlsx`, so the downloaded spreadsheet findings in `transcriptions/transition-emails-and-packet.md` supersede the earlier screenshot-only Q&A review.
+
+Most important downloaded Q&A / OneDrive findings:
 
 - Administrative-transfer employees are protected from salary decreases.
 - Pay schedule/frequency changes to **bi-weekly**.
 - Medical/dental/vision coverage continues through the end of the month; one example says through **8/31**.
 - JHHS health insurance starts the first day of the month after hire, with **30 days** to enroll.
+- If Wanda's JHHS transfer/hire date is August 23, the Q&A answer supports no health-insurance gap: JHU coverage should continue through **August 31**, and JHHS coverage should begin **September 1** if she enrolls on time.
 - COBRA is available at **102%** of the full group rate.
 - Life insurance and AD&D continue to month-end and may be converted within **31 days**.
 - FSA contributions stop; claims are allowed up to **120 days**; unused funds are forfeited.
@@ -225,10 +243,14 @@ Most important Q&A screenshot findings:
 - JHU float holidays can be used after July 1 with manager approval but are **not paid out** at transfer/termination.
 - Q&A pension answers say service credit stops for pension, vested employees remain eligible for benefits at retirement age, the JHHS pension plan is closed as of **1/1/2026**, and transitioning employees enter the JHHS 403(b) match plan. These answers need individual confirmation because pension status depends on plan and employee facts.
 - Q&A PTO answers repeat the JHU vacation payout cap: pre-July 1, 2013 hires can receive payout for accrued unused vacation up to **44 days**.
-- Q&A sick-leave answers are unclear/potentially in tension with HR025/HR031: one row says sick leave is not paid out unless retiree-eligible and may be reinstated if rehired within six months, while another row points to the administrative transfer guidelines about accrued sick leave not transferring. HR025/HR031 say sick leave transfers in an administrative transfer. This must be clarified in writing.
+- Q&A sick-leave answers pointed to the administrative-transfer guidelines about accrued sick leave not transferring. The newly pulled administrative-transfer FAQ says sick time balances are not paid out and do not transfer, while HR025/HR031 contain conflicting sick-transfer wording. This is a document conflict to press HR on, not a settled answer.
+- The Q&A says "PTO" at JHHS is combined vacation and sick time. This may explain why a separate JHU sick balance does not map cleanly into JHHS, but it also means future JHHS PTO must cover both vacation and illness.
 - Severance is generally not available if an employee declines an administrative-transfer role.
 - RIF notification letters are expected in **mid-August**.
 - One row says final employment date is **August 22** because the August 23 transition date falls on a Sunday. This should be confirmed in the individual letter.
+- The JHHS benefits presentation says PTO accrual differs by exempt/non-exempt status. If 18 years of service is recognized and she falls in the **10-19 years** row, the table shows **8.31 hours/pay period / 216 hours annually** for non-exempt employees and **8.62 hours/pay period / 224 hours annually** for exempt employees. Confirm the actual category and accrual rate in writing.
+- These JHHS PTO accrual numbers came from screenshot/visual review of the benefits presentation because the table did not extract cleanly as text. Treat the numbers as likely but confirm them in writing or from an official JHHS PTO policy.
+- Failed-download OneDrive documents were partly covered by screenshots: JHHS benefits overview, PBS/coding team materials, Senior RCM Strategist, Resource Packet for Managers, and Milestones for RCM Employees. These are indexed in `transcriptions/screenshot-ocr-partial.md`.
 
 ## Pension / retirement concern
 
@@ -266,19 +288,22 @@ The Q&A screenshots make pension/retirement one of the highest-priority follow-u
 
 ## Questions to ask HR in writing
 
-1. Is this transfer being processed as a formal **JHU-to-JHHS administrative transfer** under the Jan. 1, 2026 guidelines?
+1. Can HR confirm in writing that this transfer is being processed as a formal **JHU-to-JHHS administrative transfer** under the Jan. 1, 2026 guidelines?
 2. What will my official JHHS service date be after transfer?
 3. Will my 18 years of JHU service be recognized for PTO accrual rate, retirement eligibility, vesting, and other service-based benefits?
 4. What is my current accrued JHU vacation/PTO balance?
 5. Will my accrued JHU vacation/PTO be paid out at the August transfer date?
 6. If PTO is not paid at transfer, what policy allows it to be delayed or reset?
-7. HR025/HR031 say sick leave transfers in an administrative transfer. Can HR confirm my sick balance will transfer to JHHS and explain how it will appear after transfer?
-8. Am I currently participating in a JHU pension plan, JHU 403(b), or both?
-9. If I am in a JHU pension plan, will pension service continue accruing after the transfer to JHHS?
-10. If pension accrual stops, what is the frozen/accrued benefit as of the transfer date?
-11. What JHHS retirement plan will I be placed into after transfer?
-12. Will JHU service count toward JHHS retirement eligibility, vesting, employer contributions, or pension service?
-13. Can HR provide the specific plan document, summary plan description, or transfer-guideline section that governs the answer?
+7. HR025/HR031 say sick leave transfers in an administrative transfer, while the administrative-transfer FAQ says sick time balances are not paid out and do not transfer. Can HR confirm which document controls my actual sick-leave treatment?
+8. If my JHU sick balance will not transfer, what happens to the existing balance and when do I begin earning sick time under JHHS rules?
+9. What JHHS PTO accrual row will I be placed in, and am I non-exempt or exempt for PTO-accrual purposes?
+10. Is my final JHU employment date August 22, August 23, or another date stated in my individual letter?
+11. Am I currently participating in a JHU pension plan, JHU 403(b), or both?
+12. If I am in a JHU pension plan, will pension service continue accruing after the transfer to JHHS?
+13. If pension accrual stops, what is the frozen/accrued benefit as of the transfer date?
+14. What JHHS retirement plan will I be placed into after transfer?
+15. Will JHU service count toward JHHS retirement eligibility, vesting, employer contributions, or pension service?
+16. Can HR provide the specific plan document, summary plan description, or transfer-guideline section that governs the answer?
 
 ## Important documents to request or save
 
@@ -292,9 +317,11 @@ The Q&A screenshots make pension/retirement one of the highest-priority follow-u
 - Any JHHS offer/transfer letter.
 - Any document showing service date recognition.
 - Any document showing PTO payout timing.
-- Any document showing sick leave transfer timing and the receiving-organization sick balance.
+- Any written confirmation of the sick-leave outcome, including whether the JHU sick balance transfers, is forfeited/not transferred, or is otherwise credited, and when JHHS sick/PTO time starts accruing.
 - Any JHHS offer letter, including salary, hire date, probationary period, benefits effective date, and deadline to accept.
 - Any retirement-session slides, recording, or written answers from the June 2026 retirement information session.
+- The actual JHHS PTO policy or accrual table that will apply after transfer, including exempt/non-exempt classification.
+- Written explanation of the sick-leave treatment because HR025/HR031 conflict with the administrative-transfer FAQ.
 
 ## Working interpretation
 
@@ -303,9 +330,11 @@ Based on public sources, E210 records, and downloaded JHU HR policies, the likel
 - Her 18 years of service should be recognized across JHU and JHHS.
 - Accrued JHU PTO/vacation should be paid out by JHU at the administrative transfer, subject to the policy cap.
 - PTO balance likely does not simply carry into JHHS.
-- Sick leave should transfer to the receiving organization if this is processed as a JHU/JHHS administrative transfer.
-- The RCM packet specifically says coding roles are being mapped by administrative transfer, but her actual offer/placement letter should confirm her individual status.
+- Sick leave is unresolved because the documents conflict. HR025/HR031 favor transfer, while the administrative-transfer FAQ says sick time does not transfer and is not paid out. Ask HR to confirm in writing before assuming the sick balance survives or is lost.
+- Wanda is understood to be in the administrative-transfer group, not the competitive-recruitment group, but her actual offer/placement letter should still be saved as written confirmation.
 - The RCM packet says administrative-transfer employees will be kept whole, meaning salary should not decrease, but the individual offer letter should be checked.
 - A vested pension should not disappear, but Q&A materials suggest pension service credit may stop and future retirement participation may move to the JHHS 403(b) match plan. This needs written individual confirmation.
+- JHHS PTO accrual appears likely to be based on recognized service years, but the exact accrual rate depends on the official JHHS service date and exempt/non-exempt classification.
+- Sick leave is the biggest policy conflict in the current evidence: HR025/HR031 say sick leave transfers for administrative transfers, while the administrative-transfer FAQ says sick time does not transfer. The HR025/HR031 language gives Wanda a reasonable basis to challenge/clarify the FAQ answer in writing.
 
 This needs to be checked against the actual materials Hopkins gives her.

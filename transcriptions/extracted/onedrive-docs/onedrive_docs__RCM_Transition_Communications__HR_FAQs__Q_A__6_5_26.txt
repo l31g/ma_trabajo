@@ -1,0 +1,122 @@
+Source: onedrive_docs/RCM Transition Communications/HR FAQs/Q&A_ 6_5_26.xlsx
+
+---
+
+--- sheet: Sheet1 ---
+Category	Question	Answer
+403(b)	What happens to our 403(b) accounts?	Contributions stop at final paycheck; employer contributions continue through last full month; rollover/distribution options available.
+403(b)	Will JHU continue contributing to 403(b)?	Only through last full month of employment.
+403(b)	Will JHHS match the 403(b) after transition?	Yes, JHHS provides a match; employees move into JHHS plan with eligibility and vesting requirements; 4% + a 2% Match.
+403(b)	Can money be removed or rolled over from the 403(b)?	Yes — rollover or distribution is allowed after termination.
+403(b)	How to withdraw funds without penalty?	Penalty is applied as an IRS mandate, if withdrawal of funds prior to 59 1/2.
+Application Process	Can you apply for multiple roles?	Yes.
+Application Process	Will internal candidates be prioritized?	Yes — internal-first hiring approach.
+Application Process	What is the application timeline?	June 12 and June 19 deadlines depending on role.
+Application Process	Will there be interviews?	Yes for competitive roles; not for administrative transfer roles.
+Application Process	How long until interview decisions are made?	Timing depends on the interview and selection process. Notifications will be provided as soon as evaluations are complete
+Application Process	Will interviews be virtual or onsite?	Virtual
+Application Process	How is fairness ensured in interviews?	Panel Interviews with leaders from multiple departments evaluating based on standardized criteria.
+Application Process	Can you target specific departments when applying?	No, but you can share preferences during the interview process.
+Application Process	Will job postings include pay/hours details?	Pay grades are reflected on job descriptions.
+Application Process	Are job listings internal only?	Primarily internal; external only if roles unfilled.
+Application Process	Are additional jobs expected to be posted?	Not at this time for the PBS team. However, postings continue across the system—employees are encouraged to check regularly for new opportunities.
+Application Process	Why is there such a short turnaround time to apply for roles?
+Benefits (Other)	Will benefits change after transition?	Yes — transition to JHHS plans.
+Benefits (Other)	Will PTO accrual level carry over?	Yes — based on transferred service years.
+Benefits (Other)	Are daycare vouchers still offered?	No, JHHS do not offer daycare vouchers. We do have a Day Care vendor. Bright Horizons
+		Employees can enroll for their daycare services
+Benefits (Other)	Does JHHS offer domestic partner benefits?	JHHS recognizes spouses
+Benefits (Other)	Will float holidays still apply?	JHU Float holidays will be available July 1; and can be used with manager discretion/approval; but will expire and not be paid out as of any transfer to JHHS or term from JHU.  Per policy these are not paid out.
+Communication	Who do I contact for HR questions?	HR Support Center or listed HR contacts.
+Communication	How do I access materials if I didn’t receive email?	Contact Amy Mantegna; packets sent based on attendance.
+Communication	Where can we find the PowerPoint?	The PowerPoint was emailed and is also available in the resource hub link provided.
+Communication	Can slides be printed/shared?	Slides will be available in the resource hub for download.
+Communication	Was the meeting recorded?	No — not recorded. Additional sessions will be provided.
+Compensation	Will salary change?	Depends on role; administrative transfers will not reduce salary
+Compensation	Could the same role be offered at lower pay?	Administrative transfers protected from pay reductions
+Compensation	What is the pay range for roles?	Job Descriptions with corresponding pay grades are available in the resource hub.
+Compensation	Will pay schedule or frequency change?	Pay is bi-weekly.
+Employment Transition	When is the transition happening?	June 1 – August 23, 2026.
+Employment Transition	What is the actual last day of employment?	August 23 transition date; RIF employees may extend into early September.
+Employment Transition	What happens to my current position?	SOM role eliminated; transition via transfer or recruitment.
+Employment Transition	What happens if I don’t get a job?	HR will guide next steps, including severance (if eligible).
+Employment Transition	Will we be considered new employees?	No — service time carries over.
+Employment Transition	What happens if I decline a role?	No severance if declining administrative transfer role.
+Employment Transition	If I don’t move forward, who do I notify and what is my last day?	Notify your manager and HR representative. Your final working day will be confirmed based on your situation.
+Employment Transition	When will you know outcome if you don’t apply?	Timing depends on the interview and selection process. Notifications will be provided as soon as evaluations are complete
+Employment Transition	Will there be a probationary period?	Yes — 90 days.
+Employment Transition	What happens if you fail probation?	Severance eligibility impacted (answer indicates “Yes” — loss of severance option if you accept the JHHS position).
+Equipment	Will equipment be provided?	For transferred roles, equipment may be transitioned or reissued as needed. Further details will be shared during onboarding.
+Health Benefits	What happens to medical, dental, and vision coverage?	Coverage continues through end of month; COBRA available at 102%.
+Health Benefits	Will there be a gap in health insurance during transition?	No — coverage continues through the end of the month (e.g., 8/31).
+Health Benefits	When does JHHS health insurance begin?	First day of the month after hire; 30 days to enroll.
+Health Benefits	How does COBRA work?	Continuation at 102% of full group rate; packet sent with details.
+Health Benefits	Is COBRA cost the same as current premiums?	COBRA information can be found on JHU Benefits page https://hr.jhu.edu/benefits-worklife/health-life/#cobra
+Health Benefits	Is COBRA subsidized by JHU?	If they are in the group without placement and receive a final RIF notice, there is a portion of the severance package that that will include some funds paid to the employee intended to subsidize COBRA costs for a short term (employee is still responsible for electing COBRA and submitting the payments)
+Health Benefits	Can COBRA extend beyond standard timeframe?	COBRA rate information can be found on the JHU Benefits page                                                   https://hr.jhu.edu/wp-content/uploads/sites/73/2026COBRARatesFacStaff.pdf
+Health Benefits	What happens to FSA accounts?	Contributions stop; claims allowed up to 120 days; unused funds forfeited.
+Health Benefits	What happens to HSA accounts?	Balance retained; contributions stop; fees may apply.
+Health Benefits	What happens to life insurance and AD&D?	Coverage continues to month-end; may convert within 31 days.
+Health Benefits	Can dental/vision be converted like life insurance?	Staff moving to JHHS will need to elect JHHS Benefits; these do not transfer
+Payroll / Banking	Can payroll deductions (e.g., credit union) continue?	This is not expected to be an issue
+Pension	What happens to pension?	Service credit stops; vested employees eligible for benefits at retirement age.
+Pension	How does pension work if rehired or transitioning?	The pension plan is closed. All JHU rehired and transitioning employees will enter JHHS 403b match plan. However, immediate vesting will be granted for those with at least a year of service and 1,000 hours or more worked with JHU.
+Policy / Other	What does RIF mean?	Reduction in Force:  means a position is being eliminated due to organizational changes, not individual performance.
+PTO / Leave	What happens to vacation and PTO?	Staff hired or reinstated on or after July 1, 2013, receive pay for accrued unused vacation leave up to a maximum of 22 days. Staff hired or reinstated prior to July 1, 2013, receive pay for accrued unused vacation leave up to a maximum of 44 days. Any vacation leave that exceeds the staff member's vacation limit as determined by their most recent hire, rehire or reinstatement date, is forfeited at termination/retirement.
+PTO / Leave	Does vacation transfer or get paid out when transitioning to JHHS?	Staff hired or reinstated on or after July 1, 2013, receive pay for accrued unused vacation leave up to a maximum of 22 days. Staff hired or reinstated prior to July 1, 2013, receive pay for accrued unused vacation leave up to a maximum of 44 days. Any vacation leave that exceeds the staff member's vacation limit as determined by their most recent hire, rehire or reinstatement date, is forfeited at termination/retirement.
+PTO / Leave	What happens to sick leave? Is it paid out?	No payout unless qualified as a retiree; may be reinstated if rehired within 6 months.
+PTO / Leave	Is PTO (22 days) vacation only or combined vacation and sick?	Combined vacation and sick time.
+PTO / Leave	Does PTO reset at JHHS?	PTO is paid out, and new accrual is based on recognized years of service.
+PTO / Leave	If retiring, is sick leave paid out and how much?	Staff who retire after completing 30 or more years of continuous full-time University service immediately prior to retirement or who retire at 55 years of age or older and have at least 10 years of continuous full-time University service immediately prior to retirement, will be paid out unused sick leave in excess of 45 days at the time of retirement. retiree eligible
+Service Time	Will years of service transfer / carry over?	Yes — fully carried over for benefits, PTO, and eligibility.
+Service Time	Do I lose service credit after a long break?	Breaks >1 year may not count.
+Severance	Will I receive severance?	Yes if not placed via competitive recruitment; no if declining admin transfer.
+Severance	Is severance capped at 26 weeks?	Yes — max 26 weeks for 26+ years of service.
+Severance	Is the max severance always 26 weeks regardless of tenure?	Yes (cap defined).
+Severance	What happens if tenure is less than 1 year?	One week of pay for partial year of more than 6 months full time employment at JHU; with a minimum of 4 weeks paid.
+Severance	Does severance use original hire date or transfer date?	JHU current policy indicates current years of service to calculate for severance amount
+Severance	How is severance calculated (weeks per year)?	Weeks per year.
+Severance	Is severance paid as lump sum or installments?	Lump sum.
+Severance	When does severance start?	if eligible, Severance processed after the termination date and the completed signatures on severance agreement
+Severance	Does severance impact unemployment?	Unemployment outcomes are determined by the state. Contact Maryland Department of Labor for guidance on state decisions.
+Severance	If you withdraw an application, are you still eligible?	If this is referring to severance, employees in the competitive recruitment process remain eligible even if they withdraw their application. This does not apply to administrative transfer scenarios.
+Severance	If declining an offer due to pay, do you still get severance?	No for administrative transfer scenarios.
+Severance	Can you retire and still receive severance?	Depends on scenario (eligible in competitive recruitment, not admin transfer decline).
+Severance	If I have 3.5 years, am I eligible?	Yes — minimum of 4 weeks indicated.
+Systems / Access	Why are Req IDs or system access not working?	Please contact the appropriate TA identified in the presentation. Contacts can be found within the resource hub link
+Systems / Access	Will we retain email access?	Yes, during the transition period. If you are placed into a new role, access will continue. If your employment ends, email access will end after termination.
+Tuition Benefits	What happens to tuition reimbursement in progress?	Current semester honored; future JHU eligibility ends.
+Tuition Benefits	What happens to dependent tuition mid-program?	If the employee was already enrolled with the DCT program, we would have the prior entity provide a letter providing dates of eligibility to have that benefit continued for the employee under JHHS.
+Tuition Benefits	Does dependent tuition eligibility carry over?	Depends on service recognition.
+Tuition Benefits	Will JHHS offer tuition assistance?	Yes, Please see benefit presentation for more information
+Workforce / Roles	Are revenue cycle roles remote?	Yes — expected to remain as is.  Most positions are remote. There are a few positions that are currently hybrid and a few that are onsite. They will continue their current status.
+Workforce / Roles	Will roles be flexible or fixed schedule?	There are some flexible schedule options offered within the revenue cycle.
+Workforce / Roles	Are there enough jobs for everyone?	We have created a significant number of opportunities within the revenue cycle, with additional roles available across the system. We cannot guarantee placement for competitive roles as they are dependent on successful completion of the competitive selection process.
+Benefits / Pension	JHHS benefits indicate pension eligibility for employees hired before 2016. Since impacted employees are retaining their original hire dates, would they be eligible to participate in the pension plan?	JHHS pension plan is closed as 1/1/2026.Currentpension eligible employees will remain in pension eligible.
+Communication Resources	How long does it typically take to receive approval and access to the RCM Transition Communication Link?	Please contact Amy Mantegna.
+Compensation / Job Placement	If an employee believes the salary grade or compensation level offered for a position is not appropriate and declines the offer, would that impact severance eligibility?	Employees in the competitive placement group who decline a position offer are still eligible for severance.
+Compensation / Job Placement	Are the jobs on the spread sheet vs the ones in the email separate from the (RCM) transformation and if we apply and decline the ones on the spreadsheet due to salary, will that effect our severance?	Employees in the competitive placement group who decline a position offer are still eligible for severance.
+Compensation / Job Placement	If we apply for a position Manager or Supervisor and they offer us less than what we are making today and we decline it due to salary, will we lose our severance. I am questioning that due to cost of living may not meet that pay being offered under the supervisor vs manager.	Employees in the competitive placement group who decline a position offer are still eligible for severance.
+Employment End Date	If an employee chooses not to apply for any positions, what will be their last day of employment?	Employees will receive a 30-day notification. Notifications are expected to be distributed in mid-to-late August.
+Employment End Date	My notification letter references a 60-day notice period ending on August 1, while others have mentioned September. Can HR clarify the correct employment end date?	Employees will receive a 30-day notification. Notifications are expected to be distributed in mid-to-late August.
+Employment End Date	The presentation referenced a transition date of August 23, which falls on a Sunday. Is this considered the final day of employment with the current employer?	The final day of employment isAugust 22.
+Hiring Process	When will interviews begin for impacted employees applying for positions?	Interviews are expected to begin approximately one week after the application deadline.
+Hiring Process	How quickly will employment offers be extended following interviews?	Offers will be extended as soon as the interview and selection process is complete and depend on the duration and length of the interview process.
+Hiring Process	When should employees expect to be contacted regarding interview scheduling and next steps in the hiring process?	Interview scheduling notifications are expected to begin shortly after the application deadline.
+Internal Job Opportunities	If impacted employees apply for positions outside of the transition-created roles but within JHHS, will those interviews and hiring decisions follow the same accelerated timeline?	No. Hiring decisions for positions outside of the PBS/RCM transition process will follow their normal recruitment timelines.
+Leave of Absence / FMLA	If an employee has an approved FMLA leave and needs to utilize FMLA during the notice period, how will that impact their employment status, severance, or transition process?	Please contact Amy Mantegna for guidance specific to your situation.
+Notice Period	If an employee chooses not to apply for a position, will they still receive a 30-day notice period prior to separation?	Yes.
+PTO / Sick Leave	What was the rationale for not transferring accrued sick leave balances to Johns Hopkins Health System?	Please refer to the Administrative Transfer Policy for additional details. https://hr.jhu.edu/wp-content/uploads/sites/73/JHU-JHHS-Administrative-Transfer-Guidelines.pdf
+Remote Work / Residency	Are there residency requirements for remote employees working for Johns Hopkins Health System, or may employees reside in another state?	Eligibility is based on current residency requirements and all impacted staff have been identified as eligible for the RCM positions.
+Retirement	Who is the appropriate HR contact to assist employees who are considering retirement as part of this transition?	Please contact Amy Mantega for support. Retirement information sessions will be held on June 10 and June 16.
+Retirement	If an employee chooses to retire, what will be their final day of employment?	This answer varies. Please contact Amy Mantega.
+Retirement	If an employee intends to retire rather than apply for a position, when should they formally notify HR and begin the retirement process?	Please contact HR as soon as you have made a decision and before Augst 22nd.Retirement information sessions will be held on June 10 and June 16.
+Retirement / Severance	Can HR provide a detailed retirement guide for impacted employees, including the steps to retire, how retirement interacts with severance eligibility, key deadlines, and the expected timeline for processing?	Additional retirement information will be provided during the retirement sessions scheduled for June 10 and June 16.
+Retirement / Severance	If an employee elects to retire, will that decision impact their eligibility for severance benefits?	No. Employees impacted by the transition who retire are eligible to receive severance benefits.
+RIF Notifications	When should employees expect to receive official reduction-in-force (RIF) notification letters?	RIF notification letters are expected to be distributed in mid-August.
+Service Credit / Seniority	If an employee leaves JHHS for external employment but returns to JHHS within one year, will prior service time be restored for PTO accrual and other seniority-based benefits?	No. Prior service time will not be reinstated for PTO accrual or other seniority-based benefits.
+Severance	Can HR provide additional details regarding the severance package, including what benefits and compensation are included?	Please refer to the HR FAQ for additional details or contact Amy Mantega
+Severance	Will severance payments be issued as a lump-sum payment or distributed through regular payroll periods?	Severance will be paid as a lump-sum payment.
+Severance Eligibility	If an employee applies for a position but later withdraws their application, will they remain eligible for severance?	Yes, for employees in the competitive placement group
+Severance Eligibility	If an employee accepts a position outside of Johns Hopkins Health System before receiving a placement decision from JHHS, will they still be eligible for severance?	Yes, for employees in the competitive placement group
+Unemployment Benefits	If an employee is not selected for a position or chooses not to apply, will there be a dedicated contact or resources available to assist with filing for unemployment benefits?	No. Filing for unemployment benefits is the responsibility of the individual employee.
