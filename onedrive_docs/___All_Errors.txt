@@ -1,0 +1,13 @@
+CorrelationId: 2d947b0f-73df-4348-85e6-21723f71835b
+UTC DateTime: 06/07/2026 23:55:31
+
+The following files/folders have not been downloaded
+0. RCM Transition Communications/JHHS Benefits/JHHS_Benefits Overview_2026-0310.pdf
+
+1. RCM Transition Communications/PBS Teams/Coding Education Team.pdf
+2. RCM Transition Communications/PBS Teams/PBS Teams June 2026.pdf
+3. RCM Transition Communications/PBS Teams/Senior RCM Strategist.pdf
+
+4. RCM Transition Communications/Support Resources/Resource Packet for Managers.pdf
+
+5. RCM Transition Communications/Transition Timeline/Milestones for RCM Employees.pdf
